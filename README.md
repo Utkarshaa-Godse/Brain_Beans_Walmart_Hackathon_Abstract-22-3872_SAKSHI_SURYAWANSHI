@@ -4,7 +4,7 @@
 
 **Problem Statement:-** 
 
-    As we are well aware of the fraudulent practices in the health care fields like:
+As we are well aware of the fraudulent practices in the health care fields like:
     
 •	Using insurance that belongs to someone else.
 
