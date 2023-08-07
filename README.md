@@ -3,11 +3,17 @@
 **Brain Beans: Healthcare Fraud Detection using ML Model**
 
 **Problem Statement:-** 
+
     As we are well aware of the fraudulent practices in the health care fields like:
+    
 •	Using insurance that belongs to someone else.
+
 •	Providing false information in order to receive medical coverage.
+
 •	Duplicating claims for the same or different patients.
+
 •	Providing a service that is not covered under a patient’s insurance policy, then billing for a service that is covered.
+
 
 **How we came up with the idea:-**
 During the Covid-19 pandemic, we have seen cases of fraud in healthcare sector. 
